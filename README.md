@@ -1,4 +1,4 @@
-# RestorantWebSite
+# Restorant WebSite
 ﻿This project is a website built using HTML, CSS, and JavaScript.
  
 # Overview
